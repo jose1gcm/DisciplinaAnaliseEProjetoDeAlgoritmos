@@ -24,7 +24,8 @@ Atividades desenvolvidas durante a disciplina de Análise e Projeto de Algoritmo
 ![](img%20PA/img_PA_jogo.png)
 
 ```
-* QuickSort: ultilizado para ordenação em diferentes situações após o término foram analisados os tempos de execução
+* QuickSort: ultilizado para ordenação em diferentes situações após o término foram analisados 
+  os tempos de execução
 ```
 ![](img%20PA/img_PA_quick_1.png)
 
